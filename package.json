@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node netflix-api/server",
-    "dev": "node netflix-api/server"
+    "start": "node netflix-api/server.js",
+    "dev": "node netflix-api/server.js"
   },
   "keywords": [],
   "author": "",
